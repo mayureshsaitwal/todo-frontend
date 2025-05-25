@@ -5,6 +5,11 @@ It allows users to manage todo items, submit them for LLM summarization, and sen
 
 ---
 
+### Video
+
+[![Watch the video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://youtu.be/WVsADLZt3-E)
+
+
 ## REQUIREMENTS
 
 - Node.js (v16 or above recommended)  
